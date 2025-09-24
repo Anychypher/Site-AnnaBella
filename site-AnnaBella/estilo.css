@@ -3,21 +3,21 @@ body {
     font: 16px Arial, Helvetica, sans-serif;
 }
 
-#principal {
+.principal {
     width: 900px;
 }
 
-#menu {
+.menu {
     background: #c5c5b2;
     padding: 18px;
 }
 
-#conteudo {
+.conteudo {
     background: #e8e8d9;
     padding: 10px;
 }
 
-#rodape {
+.rodape {
     text-align: center;
 }
 
@@ -41,18 +41,18 @@ h1 {
     font-size: 1.2em;
 }
 
-#img {
+.img {
     border: 10px solid #979784;
 }
 
-#img1 {
+.img1 {
     border: 5px solid #979784;
 }
 
-#img2 {
+.img2 {
     border: 5px solid #979784;
 }
 
-#img3 {
+.img3 {
     border: 5px solid #979784;
 }
